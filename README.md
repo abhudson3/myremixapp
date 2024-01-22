@@ -36,3 +36,7 @@ Make sure to deploy the output of `remix build`
 
 - `build/`
 - `public/build/`
+
+
+
+i am at the part for outlets and child routes, about 3/4 down
